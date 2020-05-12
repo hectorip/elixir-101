@@ -1,0 +1,20 @@
+= The Dojo MX |> Elixir 101
+
+En este curso vamos a empezar a programar con Elixir.
+
+== Objetivos principales
+
+. Aprender los principios de programación funcional con un lenguaje amigable (no tan estricto) que permita aplicar los principios gradualmente.
+. Aprender Elixir, crear algunos programas con uso práctico
+
+
+== Temario
+
+. Acerca de Elixir
+. El entorno de programación
+. Creando un proyecto
+. Tipos de dato
+.. Átomos y Booleanos
+.. Números
+.. Cadenas
+.. Funciones
