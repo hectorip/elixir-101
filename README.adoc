@@ -11,6 +11,7 @@ En este curso vamos a empezar a programar con Elixir.
 == Temario
 
 . Acerca de Elixir
+. Un proyecto de prueba
 . El entorno de programación
 . Creando un proyecto
 . Tipos de dato
@@ -18,3 +19,10 @@ En este curso vamos a empezar a programar con Elixir.
 .. Números
 .. Cadenas
 .. Funciones
+.. Tuplas
+.. Listas
+.. Mapas
+.. Estructuras
+. Módulos más importantes
+.. Enum
+
