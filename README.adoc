@@ -23,6 +23,13 @@ En este curso vamos a empezar a programar con Elixir.
 .. Listas
 .. Mapas
 .. Estructuras
-. Módulos más importantes
+. Funciones
+.. Anónimas
+.. Nombradas
+.. Funciones de orden superior
+. Trabajando con Colecciones
+.. Head y Tail
 .. Enum
-
+.. Map
+.. Reduce
+.. Recursividad
