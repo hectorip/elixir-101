@@ -33,3 +33,7 @@ En este curso vamos a empezar a programar con Elixir.
 .. Map
 .. Reduce
 .. Recursividad
+. Módulos
+.. Propiedades de módulo
+.. Estructurando una aplicación
+
