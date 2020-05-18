@@ -36,4 +36,6 @@ En este curso vamos a empezar a programar con Elixir.
 . Módulos
 .. Propiedades de módulo
 .. Estructurando una aplicación
-
+. Procesos
+.. spawn. send
+.. spawn_link
