@@ -1,0 +1,7 @@
+= ¿Por qué Elixir?
+
+. Funcional
+. Divertido
+. Resiliente
+
+
